@@ -1,0 +1,15 @@
+.resume{font-family:Georgia, 'Times New Roman', Times, serif}
+.resumetitle{text-align: center;font-style:  bold;font-size: 50px;}
+.resumesubtitle{text-align: center;font-size: 15px;font-style: oblique;font-size: 18px;color: rgba(77, 77, 77, 0.432);}
+.resumecategory{font-size: 25px;text-emphasis-style: underline;margin-left: 10px;text-decoration: underline;}
+.subtitle1{font-size: 20px;color: darkslategrey;font-style: bold underline;margin-left: 10px;}
+.subtitle2{font-size: 15px;color: darkslategrey;margin-left: 10px;}
+.categorycontent{font-size: 13px;margin-left: 10px;}
+.skills{font-size: 15px;left: 8px;color: darkslategrey;}
+.orderlist{left: 5px;}
+.profile{display: block;margin-left: auto;margin-right: auto;width: 50%; height: auto;}
+#byu{margin-left: 20px;}
+#youtube{margin-left: 10px;}
+.top{font-family: Georgia, 'Times New Roman', Times, serif; font-size: 500;align-content: center;color: deepskyblue;}
+.biotitle{font-size: 50px; font-weight: 200;text}
+#hyperlink{color: blue;font-size: 15px}
